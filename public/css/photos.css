@@ -1,0 +1,20 @@
+html {
+  background-color: rgb(50,51,22);
+}
+h1{
+  text-align: center;
+  color: rgb(152,188,178);
+  font-family: arial;
+}
+.column-left{ 
+  float: 
+  left; 
+  width: 33%; 
+}
+.column-right{ 
+  float: right; 
+  width: 33%; 
+}
+.column-center{ 
+  display: inline-block; 
+  width: 33%; }

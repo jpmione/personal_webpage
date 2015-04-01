@@ -1,0 +1,39 @@
+html {
+    background-image: url("images/barber_shop.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+  font-family: lucida;
+}
+
+h1 {
+  color: rgb(0,0,0);  
+  font-size: 30pt;  
+  font-weight: lighter;   
+  text-align: left;
+}
+
+
+.links {
+  font-size: 12pt;
+  position: fixed;
+  top:-15px;
+  left:50%;
+  margin-left: 275px;
+  line-height: 20px;
+  color: red;
+}
+
+
+.jerad {
+  margin-left: 4%;
+}
+ul.nav{
+  list-style: none;
+  float: right;
+  width: 20%;
+  color: red;
+}
+
